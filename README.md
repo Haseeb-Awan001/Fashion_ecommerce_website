@@ -5,7 +5,7 @@ E-Commerce Website System
 This project is a Full-Stack E-Commerce Web Application developed as a Software Engineering project.
 The system allows users to browse products, search and filter items, add products to cart or wishlist, place orders, track shipments, and submit reviews.
 
-It also includes an Admin Panel for managing products, categories, discounts, users, and orders.
+It also includes an Admin Panel for managing products, categories, discounts, users, and order.
 
 ------------------------- Objectives
 
